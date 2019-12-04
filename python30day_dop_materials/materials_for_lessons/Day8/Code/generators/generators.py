@@ -17,6 +17,17 @@ def fib():
     while True:
         yield a
         a, b = b, a + b
+f=fib()
+
+print(next(f))
+print(next(f))
+print(next(f))
+print(next(f))
+print(next(f))
+print(next(f))
+print(next(f))
+
+
 
 
 if __name__ == '__main__':
@@ -34,6 +45,7 @@ if __name__ == '__main__':
         print('Will not work')
 
     new_cities = cities()
+    print(new_cities)
     print(next(new_cities))
     print(list(new_cities))
 

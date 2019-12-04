@@ -1,34 +1,34 @@
-# -*- coding: utf-8 -*-
+    # -*- coding: utf-8 -*-
 
-__author__ = 'sobolevn'
-
-
-def action_decorator(func):
-    def inner(text):
-        print('Someone is going to', func.__name__)
-        func(text)
-
-    return inner
+    __author__ = 'sobolevn'
 
 
-@action_decorator  # try to uncomment me
-def shout(text):
-    print(text.upper(), '!!!!')
+    def action_decorator(func):
+        def inner(text):
+            print('Someone is going to', func.__name__)
+            func(text)
+
+        return inner
 
 
-@action_decorator
-def whisper(text):
-    print(text.lower(), '...')
+    @action_decorator  # try to uncomment me
+    def shout(text):
+        print(text.upper(), '!!!!')
 
 
-@action_decorator
-def say(something):
-    something += '; was said.'
-    print(something)
+    @action_decorator
+    def whisper(text):
+        print(text.lower(), '...')
 
 
-if __name__ == '__main__':
-    # Basic functions:
-    say('hi')
-    whisper('Hello')
-    shout('i am here')
+    @action_decorator
+    def say(something):
+        something += '; was said.'
+        print(something)
+
+
+    if __name__ == '__main__':
+        # Basic functions:
+        say('hi')
+        whisper('Hello')
+        shout('i am here')
