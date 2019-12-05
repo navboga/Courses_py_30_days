@@ -7,7 +7,7 @@
 5- написать генератор который бы работал как zip ()
 """
 #1 - Наприсать генератор который каждый раз возвращал бы новое случайное значение
-
+print('*'*5,'1'* 10,'*'*5)
 from random import randint
 
 
@@ -19,6 +19,7 @@ randomise=random_dig()
 
 print(next(randomise))
 #2 - написать генератор который бы работал как range()
+print('*'*5,'2'* 10,'*'*5)
 
 def rnge(start=0,stop=0,step=1):
   if start < stop:
@@ -42,7 +43,7 @@ except StopIteration:
     print('End of sequence')
 
 #3 - написать генератор который бы работал как map()
-
+print('*'*5,'3'* 10,'*'*5)
 
 numbers=['11','21','23','40']
 funct = int
@@ -61,6 +62,7 @@ nm=new_map(funct,numbers)
 print(next(nm)+ next(nm) + next(nm))
 
 #4 - написать генератор который бы работал как enumerate()
+print('*'*5,'4'* 10,'*'*5)
 from pprint import pprint
 
 def new_enumerate(some_iterable):
@@ -69,7 +71,7 @@ def new_enumerate(some_iterable):
     iter_for_some_iterable=iter(some_iterable)
 
     while True:
-        yield a, next(iter_for_some_iterable)
+        yield (a, next(iter_for_some_iterable))
         a+=1
 
 obj=['book',2,['some1','some2','some3']]

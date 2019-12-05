@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94eaf2a7-f32f-4684-9a83-33a57fabbdd2" name="Default Changelist" comment="new commit">
-      <change afterPath="$PROJECT_DIR$/DAY8_Homework_Lect/Day8_generators_hw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY8_Homework_Lect/Day8_generators_lect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY8_Homework_Lect/day8_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7_syntactic_sugar/test_decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7_syntactic_sugar/time_is_run_with_decorator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python30days.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python30days.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="94eaf2a7-f32f-4684-9a83-33a57fabbdd2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day7/Code/decorators/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day7/Code/decorators/decorators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY8_Homework_Lect/Day8_generators_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY8_Homework_Lect/Day8_generators_hw.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DAY8_Homework_Lect/Day8_generators_hw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="81" column="12" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+            <state relative-caret-position="391">
+              <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -66,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/generators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="799">
               <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
             </state>
           </provider>
@@ -183,32 +174,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python30days" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python30days" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python30days" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python30days" type="462c0819:PsiDirectoryNode" />
-              <item name="Day1_homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python30days" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python30days" type="462c0819:PsiDirectoryNode" />
-              <item name="DAY6_lect_and HW" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python30days" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python30days" type="462c0819:PsiDirectoryNode" />
-              <item name="Day7_syntactic_sugar" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -260,6 +225,32 @@
               <item name="Day8" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Code" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="generators" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python30days" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python30days" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python30days" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python30days" type="462c0819:PsiDirectoryNode" />
+              <item name="Day1_homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python30days" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python30days" type="462c0819:PsiDirectoryNode" />
+              <item name="DAY6_lect_and HW" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python30days" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python30days" type="462c0819:PsiDirectoryNode" />
+              <item name="Day7_syntactic_sugar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -563,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574330389839</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="+ day8">
+      <created>1575484233772</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1575484233772</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -575,14 +573,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49578503" visible="true" weight="0.30010834" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49525815" visible="true" weight="0.30010834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841937" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49841937" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50421494" side_tool="true" visible="true" weight="0.30010834" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50474185" side_tool="true" visible="true" weight="0.30010834" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -619,7 +617,8 @@
     <MESSAGE value="day_6 lection and hw" />
     <MESSAGE value="day_7 sintax sugar" />
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <MESSAGE value="+ day8" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ day8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -876,44 +875,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DAY6_lect_and HW/Day6/Code/todo/utils.py">
+    <entry file="file://$PROJECT_DIR$/Day7_syntactic_sugar/time_is_run_with_decorator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAY6_lect_and HW/Day6/Code/todo/custom_exceptions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/simplest_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/iterators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/generators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/custom_range.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAY8_Homework_Lect/day8_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -924,17 +889,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day7_syntactic_sugar/time_is_run_with_decorator.py">
+    <entry file="file://$PROJECT_DIR$/DAY8_Homework_Lect/day8_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/custom_range.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/generators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/iterators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python30day_dop_materials/materials_for_lessons/Day8/Code/generators/simplest_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAY6_lect_and HW/Day6/Code/todo/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAY6_lect_and HW/Day6/Code/todo/custom_exceptions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/DAY8_Homework_Lect/Day8_generators_hw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="81" column="12" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+        <state relative-caret-position="391">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
         </state>
       </provider>
     </entry>
