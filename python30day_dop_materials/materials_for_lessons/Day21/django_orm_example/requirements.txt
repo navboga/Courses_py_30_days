@@ -1,6 +1,6 @@
 astroid==1.4.4
 colorama==0.3.6
-Django==1.9.5
+Django==1.11.29
 django-debug-toolbar==1.4
 django-querycount==0.4.1
 django-split-settings==0.1.3
